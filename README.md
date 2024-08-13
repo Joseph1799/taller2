@@ -148,6 +148,12 @@ Puedes probar el servicio utilizando herramientas como **Postman** o directament
 
 Simplemente ingresa `http://localhost:5000/employees` en la barra de direcciones de tu navegador y verás la respuesta en JSON.
 
-### 7. Créditos
+### 7. Evidencia del Servicio Web en Funcionamiento
+![WhatsApp Image 2024-08-12 at 9 15 34 PM](https://github.com/user-attachments/assets/198949b5-4cc9-4dc8-868f-99813797cbb3)
+
+
+Puedes probar el servicio utilizando herramientas como **Postman** o directamente desde tu navegador web.
+
+### 8. Créditos
 
 Este proyecto fue desarrollado como parte de un taller para ULACIT. Agradecemos a los profesores y compañeros de clase por su apoyo y colaboración.
